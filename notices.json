@@ -1,43 +1,42 @@
 [
-    {
-      "title": "5월 가정의 달 특별 이벤트 안내",
-      "description": "가정의 달을 맞아 구성원 가족을 위한 다양한 복지 이벤트를 준비했습니다.",
-      "created_at": "2025-05-04T09:00:00+09:00",
-      "author": "총무팀",
-      "thumbnail_url": "https://cdn.corp.local/images/notice/family_event_may.png",
-      "landing_url": "https://intra.corp.local/events/family-may"
-    },
-    {
-      "title": "전사 휴무일 안내 (5/6)",
-      "description": "5월 6일(월)은 대체공휴일로 지정되어 전사 휴무입니다. 업무에 참고 바랍니다.",
-      "created_at": "2025-05-03T10:30:00+09:00",
-      "author": "총무팀",
-      "thumbnail_url": "https://cdn.corp.local/images/notice/holiday_0506.png",
-      "landing_url": "https://intra.corp.local/notice/holiday-0506"
-    },
-    {
-      "title": "사내카페 운영시간 변경 안내",
-      "description": "5월부터 사내카페 운영시간이 평일 08:00~18:00로 변경됩니다.",
-      "created_at": "2025-05-02T14:15:00+09:00",
-      "author": "복지팀",
-      "thumbnail_url": "https://cdn.corp.local/images/notice/cafe_hours.png",
-      "landing_url": "https://intra.corp.local/services/cafe"
-    },
-    {
-      "title": "2025 상반기 사내 만족도 조사",
-      "description": "더 나은 근무 환경을 위해 5/1~5/10 동안 만족도 조사를 진행합니다.",
-      "created_at": "2025-05-01T08:00:00+09:00",
-      "author": "HR팀",
-      "thumbnail_url": "https://cdn.corp.local/images/notice/survey_2025h1.png",
-      "landing_url": "https://intra.corp.local/survey/2025-h1"
-    },
-    {
-      "title": "신규 입사자 오리엔테이션 일정 공지",
-      "description": "5월 입사자 대상 오리엔테이션은 5월 8일 수요일 오전 10시에 진행됩니다.",
-      "created_at": "2025-04-30T17:45:00+09:00",
-      "author": "인사팀",
-      "thumbnail_url": "https://cdn.corp.local/images/notice/orientation_may.png",
-      "landing_url": "https://intra.corp.local/onboarding/may-2025"
-    }
-  ]
-  
+  {
+    "title": "5월 가정의 달 특별 이벤트 안내",
+    "description": "가정의 달을 맞아 구성원 가족을 위한 다양한 복지 이벤트를 준비했습니다.",
+    "created_at": "2025-05-04T09:00:00+09:00",
+    "author": "총무팀",
+    "thumbnail_url": "https://images.unsplash.com/photo-1589927986089-35812388d1d7?auto=format&fit=crop&w=200&q=80",
+    "landing_url": "https://www.naver.com"
+  },
+  {
+    "title": "전사 휴무일 안내 (5/6)",
+    "description": "5월 6일(월)은 대체공휴일로 지정되어 전사 휴무입니다. 업무에 참고 바랍니다.",
+    "created_at": "2025-05-03T10:30:00+09:00",
+    "author": "총무팀",
+    "thumbnail_url": "https://images.unsplash.com/photo-1611996577702-3d06fa75d152?auto=format&fit=crop&w=200&q=80",
+    "landing_url": "https://www.korea.go.kr"
+  },
+  {
+    "title": "사내카페 운영시간 변경 안내",
+    "description": "5월부터 사내카페 운영시간이 평일 08:00~18:00로 변경됩니다.",
+    "created_at": "2025-05-02T14:15:00+09:00",
+    "author": "복지팀",
+    "thumbnail_url": "https://images.unsplash.com/photo-1574169208507-84376144848b?auto=format&fit=crop&w=200&q=80",
+    "landing_url": "https://www.visitkorea.or.kr"
+  },
+  {
+    "title": "2025 상반기 사내 만족도 조사",
+    "description": "더 나은 근무 환경을 위해 5/1~5/10 동안 만족도 조사를 진행합니다.",
+    "created_at": "2025-05-01T08:00:00+09:00",
+    "author": "HR팀",
+    "thumbnail_url": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=200&q=80",
+    "landing_url": "https://forms.gle/1FczS1vZJ93kLZsJ8"
+  },
+  {
+    "title": "신규 입사자 오리엔테이션 일정 공지",
+    "description": "5월 입사자 대상 오리엔테이션은 5월 8일 수요일 오전 10시에 진행됩니다.",
+    "created_at": "2025-04-30T17:45:00+09:00",
+    "author": "인사팀",
+    "thumbnail_url": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=200&q=80",
+    "landing_url": "https://www.jobkorea.co.kr"
+  }
+]
